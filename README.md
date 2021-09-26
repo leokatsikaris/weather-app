@@ -12,4 +12,8 @@ Hope you like it! I'm very open to constructive comments and opinions.
 
 
 IMPORTANT! 
+
 To execute the app type "npm start" on the main directory and wait your browser to open the website. 
+
+
+![image](https://user-images.githubusercontent.com/85530409/134817544-0156bd75-746d-4675-acc3-1e1e6dbfaccc.png)
