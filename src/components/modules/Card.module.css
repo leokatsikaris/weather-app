@@ -1,0 +1,53 @@
+.weatherBoxContainer{
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.weatherBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 250px;
+    height: 400px;
+    /* width: 250px;
+    height: 270px; */
+    /* border-radius: 30%; */
+    border-radius: 20%;
+    background-color: rgba(255, 255, 255, 0.479);
+    box-shadow: 3px 0px 8px silver;
+    padding-bottom: 10px;
+  }
+
+  img {
+    width: 100px;
+    height: 100px;
+  }
+  
+  h1 {
+    font-size: 30px;
+    font-weight: bolder;
+    color:black;
+  }
+  
+  .temp {
+    padding-bottom: 2px;
+    font-size: 1.5em;
+    padding-left: 10px;
+  }
+
+  button{
+    align-self: flex-end;
+    border: none;
+    background: rgba(0, 0, 0, 0.644);
+    color: white
+}
+
+.tempContainer{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+

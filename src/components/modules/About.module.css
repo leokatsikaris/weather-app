@@ -1,0 +1,25 @@
+.aboutBoxContainer{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 7em;
+}
+
+.aboutBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 700px;
+    height: 270px;
+    border-radius: 5%;
+    background-color: rgba(255, 255, 255, 0.205);
+    box-shadow: 3px 0px 8px silver;
+    padding-bottom: 10px;
+  }
+
+  h3{
+      font-weight: bolder;
+      padding-left: 10px;
+      padding-right: 10px;
+  }

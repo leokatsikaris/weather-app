@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@200&display=swap');
+
+body {
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* height: 100vh; */
+    margin: 0;
+    background: url('https://fondosmil.com/fondo/12662.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Barlow', sans-serif;
+  }
