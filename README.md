@@ -1,7 +1,9 @@
 # weather-app
 
 
-Hi everyone! 
+Hi everyone!  :wave:
+
+Welcome to my Weather App! :sunny::cloud::partly_sunny::sun_behind_rain_cloud::cloud_with_rain::cloud_with_lightning::tornado::sun_behind_small_cloud:
 
 This is my very first React app. Was created using HTML and CSS. 
 
