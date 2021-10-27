@@ -15,7 +15,7 @@ Hope you like it! I'm very open to constructive comments and opinions.
 
 IMPORTANT! 
 
-To execute the app type "npm start" on the main directory and wait your browser to open the website. 
+To execute the app type on the main directory "npm install" to install dependencies and then type "npm start" and wait your browser to open the website. 
 
 
 
